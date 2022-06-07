@@ -1,6 +1,6 @@
-title: "(REPLACE WITH Book Title)"
-copyright: '(REPLACE WITH Current Year), (REPLACE WITH Author Name)'
-author: '(REPLACE WITH Author Name)'
+title: Revista Semillero ECUSTA
+copyright: 2021, Semillero Ecusta
+author: Semillero Ecusta
 
 execute:
   execute_notebooks: "force"
@@ -8,10 +8,10 @@ execute:
 html:
   use_edit_page_button : true
   use_repository_button: true
-  baseurl              : (REPLACE WITH Project URL)
+  baseurl              : 
 
 repository:
-  url: (REPLACE WITH Repository URL)
+  url: https://github.com/semilleroecusta/research_book
   branch: source
 
 launch_buttons:
